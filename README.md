@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeBreaker
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning ECMAScript
+- 🌱 I’m currently learning Webpack!
 - 📫 How to reach me: diegoperezperez518@gmail.com
 
 <!---
