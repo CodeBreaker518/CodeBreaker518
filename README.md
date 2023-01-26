@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **portfolio-js**
 
-- 🌱 I’m currently learning **Webpack for fullstack development with JS**
+- 🌱 I’m currently learning **React.js for fullstack development with JS**
 
 - 📫 How to reach me **diegoperezperez518@gmail.com**
 
