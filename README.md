@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Personal portfolio](https://personal-portfolio-codebreaker518.netlify.app/)
 
-- 🌱 I’m currently learning **React V18 for fullstack development with JavaScript**
+- 🌱 I’m currently learning **React V18, Next.js & Redux for fullstack development with JavaScript**
 
 - 💻 Personal Portfolio [https://personal-portfolio-codebreaker518.netlify.app/](https://personal-portfolio-codebreaker518.netlify.app/)
 
