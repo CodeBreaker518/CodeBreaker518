@@ -13,8 +13,6 @@ I've been learning front-end development for about 2 years now, my favorite tech
 * 🧠  I'm learning TypeScript, SQL
 * 🤝  I'm open to collaborating on Interesting projects with a team structured behind.
 
-<a href="https://www.github.com/CodeBreaker518" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CodeBreaker518?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
