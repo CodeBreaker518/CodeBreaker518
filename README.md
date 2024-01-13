@@ -4,7 +4,7 @@ Hi 👋 My name is Diego Perez
 Front-end Developer
 -------------------
 
-I've been learning front-end development for about 2 years now, my favorite technologies are ReactJs, TailwindCSS and JavaScript and I'm a very enthusiast by the new technologies coming up, love learning!
+I've been learning front-end development for about 2 years now, my favorite technologies are ReactJs, TailwindCSS and JavaScript and I'm very enthusiast by the new technologies coming up, love learning!
 
 * 🌍  I'm based in Guanajuato, México
 * 🖥️  See my portfolio at [My Portfolio](http://codebreaker518.netlify.app)
