@@ -9,8 +9,7 @@ I've been learning front-end development for about 2 years now, my favorite tech
 * 🌍  I'm based in Guanajuato, México
 * 🖥️  See my portfolio at [My Portfolio](http://codebreaker518.netlify.app)
 * ✉️  You can contact me at [diegoperezperez518@gmail.com](mailto:diegoperezperez518@gmail.com)
-* 🚀  I'm currently working on [MunchEZ (Private)](http://github.com/CodeBreaker518)
-* 🧠  I'm learning TypeScript, SQL
+* 🧠  I'm learning SQL & Backend Technologies
 * 🤝  I'm open to collaborating on Interesting projects with a team structured behind.
 
 ### Skills
