@@ -1,5 +1,5 @@
 # 💫 About Me:
-🪐 FullStack Developer, React Lover. <br>🌍 Based in Guanajuato, México.<br>👯 I’m looking to collaborate on FullStack projects with a well structured team behind!<br>🌱 I’m currently learning Backend Technologies & SQL.<br>
+🌍 Based in Guanajuato, México.<br>👯 I’m looking to collaborate on FullStack projects with a well structured team behind!<br>🌱 I’m currently learning Backend Technologies & SQL.<br>
 
 
 ## 🌐 Socials:
