@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Web Developer
 -----------------------
 
-Learning & Coding for about 3 years now, +1 year of experience working in real projects/freelancing and delivering awesome experiences.
+Learning & Coding for about 3.5 years now, +2 year of experience working in real projects/freelancing and delivering awesome experiences.
 
 * 🌍  I'm based in Guanajuato, Mexico
 * 🖥️  See my portfolio at [Portfolio](http://codebreaker518.netlify.app)
