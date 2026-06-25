@@ -7,8 +7,8 @@ FullStack Web Developer
 Learning & Coding for about 3.5 years, +2 year of experience working in real projects/freelancing and delivering awesome experiences.
 
 * 🌍  I'm based in Guanajuato, Mexico
-* 🖥️  See my portfolio at [Portfolio](http://codebreaker518.netlify.app)
-* 🚀  I'm currently working on [BillExpress](http://billexpress.vercel.app)
+* 🖥️  See my portfolio at [Portfolio](https://codebreaker518.netlify.app)
+* 🚀  I'm currently working on [ZendaPro](https://zendapro.app)
 * 🧠  I'm learning UI/UX Principles
 
 <a href="https://www.github.com/CodeBreaker518" target="_blank" rel="noreferrer"><img
